@@ -1,7 +1,7 @@
 lzc-sdk-version: "0.1"
 name: md
 package: cloud.lazycat.app.md
-version: 0.0.2
+version: 0.0.3
 description: 微信 Markdown 编辑器
 homepage: ""
 author: doocs
@@ -16,4 +16,4 @@ application:
     - /=http://md.cloud.lazycat.app.md.lzcapp:80/
 services:
   md:
-    image: registry.lazycat.cloud/mxuexxmy/doocs/md:58e3c24b41c26417
+    image: registry.lazycat.cloud/mxuexxmy/doocs/md:93375b3ce32b6e70
